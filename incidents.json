@@ -1814,7 +1814,7 @@
     "type": "Bridge Attack",
     "Lost": 4300000.0,
     "lossType": "USD",
-    "Contract": "src/test/2022-02/Meter_exp.sol",Incufi_exp
+    "Contract": "src/test/2022-02/Meter_exp.sol",
     "chain": "No info"
   },
   {
