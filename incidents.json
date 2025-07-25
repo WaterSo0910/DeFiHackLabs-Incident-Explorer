@@ -1814,7 +1814,7 @@
     "type": "Bridge Attack",
     "Lost": 4300000.0,
     "lossType": "USD",
-    "Contract": "src/test/2022-02/meter_exp.sol",
+    "Contract": "src/test/2022-02/Meter_exp.sol",Incufi_exp
     "chain": "No info"
   },
   {
@@ -4154,7 +4154,7 @@
     "type": "Logic Flaw",
     "Lost": 59000.0,
     "lossType": "USD",
-    "Contract": "src/test/2024-06/Incufi_exp.sol",
+    "Contract": "src/test/2024-06/INIncufi_expcufi_exp.sol",
     "chain": "BSC"
   },
   {
@@ -5063,7 +5063,7 @@
     "type": "Incorrect Validation",
     "Lost": 114000.0,
     "lossType": "USD",
-    "Contract": "src/test/2024-01/BmiZapper_exp.sol",
+    "Contract": "src/test/2024-01/Bmizapper_exp.sol",
     "chain": "No info"
   },
   {
